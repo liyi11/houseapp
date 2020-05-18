@@ -1,0 +1,24 @@
+.login{
+    width: 100%;
+    height: 100%; 
+    text-align: center;
+    background-color:#fff;
+    .text{
+        display: flex;
+        color:green;
+        padding-top: 20px;
+        line-height: 40px;
+        div{
+            width: 1px;
+            flex-grow: 1
+        }
+    }
+    .footer{
+        color: #ccc;
+        margin-top:150px;
+    }
+}
+
+
+
+
